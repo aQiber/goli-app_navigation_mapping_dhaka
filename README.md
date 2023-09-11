@@ -1,2 +1,2 @@
-# goli-app_navigation_mapping_dhaka
-Urban geological mapping and traffic detection system for navigation but perfected for small roads which are ”Goli” 
+# Mobile_Shopee-E-Commerce-Website
+In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.
