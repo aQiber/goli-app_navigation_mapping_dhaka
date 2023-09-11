@@ -1,2 +1,2 @@
-# Mobile_Shopee-E-Commerce-Website
-In this complete E-commerce Website, We will take a look at how to create Mobile Shopee Using PHP and Mysql Database. We gonna start by creating an HTML template then convert it into PHP and then use MySQL database to fetch products and display it in the project.
+# Goli-app Navigation and Mapping 
+In this a a new urban geological mapping and traffic detection system which is incredibly similar to google maps but perfected for small roads which are ”Goli” of Bangladesh. This app is created using react-based wb fronts and can import google mapping(requires paid api) for live data visualization.
